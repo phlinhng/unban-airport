@@ -1,5 +1,5 @@
 ## unban-airport
-收集常被機場審計規則屏蔽的域名。
+蒐集常被機場審計規則屏蔽的域名。
 
 ## Reference
 + https://duyaoss.com/archives/2706/
